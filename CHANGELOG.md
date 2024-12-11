@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.1.0](https://github.com/PecozQ/git-flow-example/compare/vv1.0.0...v1.1.0) (2024-12-11)
+
+
+### Features
+
+* Added a dummy file app.js ([8dd8a59](https://github.com/PecozQ/git-flow-example/commit/8dd8a593430f991043709e3dd66ce07f65d886b0))
+
+
+### Bug Fixes
+
+*  hello world spelling corrected ([00edcf8](https://github.com/PecozQ/git-flow-example/commit/00edcf81f0b44268aec5b417df46c6199284bcfd))
+* port changed to 3001 ([396dbd5](https://github.com/PecozQ/git-flow-example/commit/396dbd59a730983b35104f601ca7ea117ef077b5))
+
 ## 1.0.0 (2024-12-11)
 
 
