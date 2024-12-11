@@ -1,0 +1,22 @@
+{
+  "name": "git-flow-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PecozQ/git-flow-example.git"
+  },
+  "author": "Kaviyarasan Thirunavukkarasu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PecozQ/git-flow-example/issues"
+  },
+  "homepage": "https://github.com/PecozQ/git-flow-example#readme",
+  "devDependencies": {
+    "standard-version": "^9.5.0"
+  }
+}
