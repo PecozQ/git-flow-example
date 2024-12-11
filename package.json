@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/PecozQ/git-flow-example/issues"
   },
-  "homepage": "https://github.com/PecozQ/git-flow-example#readme"
+  "homepage": "https://github.com/PecozQ/git-flow-example#readme",
+  "devDependencies": {
+    "standard-version": "^9.5.0"
+  }
 }
