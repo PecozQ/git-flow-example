@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.5.1](https://github.com/PecozQ/git-flow-example/compare/v1.1.0...v1.5.1) (2024-12-11)
+
+
+### Features
+
+* added payment file ([fe79a60](https://github.com/PecozQ/git-flow-example/commit/fe79a601f6c77096f51aa77748af2b9b744aed2f))
+
+
+### Bug Fixes
+
+* port changed and worlds spelling corrected ([01584e9](https://github.com/PecozQ/git-flow-example/commit/01584e9aba130f519a846d59bc92c571c31a0776))
+
 ## [1.1.0](https://github.com/PecozQ/git-flow-example/compare/vv1.0.0...v1.1.0) (2024-12-11)
 
 
